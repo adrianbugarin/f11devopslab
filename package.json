@@ -1,0 +1,22 @@
+{
+    "name": "devops-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "public/server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node public/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": " "
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "node": "^17.0.1",
+        "rollbar": "^2.24.0"
+    }
+}
